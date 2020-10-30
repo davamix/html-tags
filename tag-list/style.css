@@ -1,0 +1,29 @@
+.tag{
+    background-color: #bfbceb;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.tag-bar{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.tag-list{
+    padding: 0;
+}
+
+.tag-list li{
+    list-style-type: none;
+    cursor: pointer;
+    background-color: #bfbceb;
+    color: #fff;
+    margin-top: 0.5rem;
+    max-width: 250px;
+    padding: 0.3rem;
+}

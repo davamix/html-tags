@@ -1,0 +1,15 @@
+.tag{
+    background-color: #bfbceb;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.tag-bar{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 5px;
+}
